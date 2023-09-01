@@ -1,5 +1,7 @@
 # Belajar Golang Web
 
+Link Pembelajaran <a href="https://www.youtube.com/watch?v=fXtcZYE4_xI&list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ&index=10&ab_channel=ProgrammerZamanNow">Programmer Zaman Now</a>
+
 > cara membuat server `ListenAndServe()`
 
 ```golang
